@@ -111,6 +111,10 @@ header a:hover {
   font-family: 'Exo', sans-serif;
 }
 
+.portfolio p {
+  font-size: 20px;
+}
+
 /************ CONTACT ************/
 
 .contact {
