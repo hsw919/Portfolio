@@ -104,6 +104,10 @@ header a:hover {
   height: auto;
 }
 
+.weather {
+  margin-top: 150px;
+}
+
 .portfolio h2 {
   font-size: 40px;
   text-transform: uppercase;
